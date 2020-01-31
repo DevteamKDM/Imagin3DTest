@@ -651,3 +651,5 @@ Script Stack (0 frames):
 [2020.01.31-16.05.43:532][761]SourceControl:  create mode 100644 TESTIMAGIN3D/Content/level1.umap
 [2020.01.31-16.05.43:532][761]SourceControl:  create mode 100644 TESTIMAGIN3D/Content/level1_BuiltData.uasset
 [2020.01.31-16.05.43:539][761]SourceControl: Commited [master 8309d7f] level and bsp.
+[2020.01.31-16.09.33:281][745]SourceControl: fatal: D:/UE_4.23/Engine/Content: 'D:/UE_4.23/Engine/Content' is outside repository
+[2020.01.31-16.09.35:710][745]LogSlate: Window 'Submit Files' being destroyed
