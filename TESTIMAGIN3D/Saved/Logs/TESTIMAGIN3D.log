@@ -590,3 +590,9 @@ Script Stack (0 frames):
 [2020.01.31-16.01.04:670][655]SourceControl:  3 files changed, 58 insertions(+), 1 deletion(-)
 [2020.01.31-16.01.04:670][655]SourceControl:  create mode 100644 TESTIMAGIN3D/Content/NewBlueprint.uasset
 [2020.01.31-16.01.04:681][655]SourceControl: Commited [master c47d8cd] blueprint.
+[2020.01.31-16.03.31:618][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.31-16.03.47:684][724]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2020.01.31-16.03.48:758][724]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.01.31-16.03.50:855][724]LogRenderer: Reallocating scene render targets to support 1104x712 Format 9 NumSamples 1 (Frame:1).
+[2020.01.31-16.03.52:300][808]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.01.31-16.03.52:322][808]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
