@@ -601,3 +601,41 @@ Script Stack (0 frames):
 [2020.01.31-16.07.20:931][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2020.01.31-16.07.22:764][  6]SourceControl: fatal: D:/Unreal/UE_4.23/Engine/Content: 'D:/Unreal/UE_4.23/Engine/Content' is outside repository
 [2020.01.31-16.07.22:926][  6]EditorErrors: Warning: No assets to check in!
+[2020.01.31-16.07.59:849][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.08.00:738][275]LogAIModule: Creating AISystem for world level1
+[2020.01.31-16.08.00:743][275]LogAssetEditorManager: Opening Asset editor for World /Game/level1.level1
+[2020.01.31-16.08.00:788][275]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.01.31-16.08.00:788][275]Cmd: MAP LOAD FILE="../../../../../Git/Imagin3DTest/TESTIMAGIN3D/Content/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.31-16.08.00:789][275]LightingResults: New page: Lighting Build
+[2020.01.31-16.08.00:789][275]LoadErrors: New page: Loading map: level1.umap
+[2020.01.31-16.08.00:790][275]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-16.08.00:790][275]MapCheck: New page: Map Check
+[2020.01.31-16.08.00:790][275]LightingResults: New page: Lighting Build
+[2020.01.31-16.08.00:829][275]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.31-16.08.00:846][275]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.31-16.08.00:883][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.01.31-16.08.00:894][275]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.31-16.08.00:894][275]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2020.01.31-16.08.00:894][275]LogFileHelpers: Loading map 'level1' took 0.106
+[2020.01.31-16.08.07:636][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.08.10:275][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.08.11:538][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.08.12:981][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.08.14:360][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.08.17:404][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.31-16.08.22:681][556]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-16.08.22:797][556]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-16.08.22:805][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../Git/Imagin3DTest/TESTIMAGIN3D/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.31-16.08.22:840][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.01.31-16.08.23:027][556]LogSavePackage: Moving '../../../../../Git/Imagin3DTest/TESTIMAGIN3D/Saved/level1E84115144D79D7F07451F4AD1A7CA60D.tmp' to '../../../../../Git/Imagin3DTest/TESTIMAGIN3D/Content/level1.umap'
+[2020.01.31-16.08.23:041][556]LogFileHelpers: Saving map 'level1' took 0.235
+[2020.01.31-16.08.24:635][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.31-16.08.26:174][743]SourceControl: fatal: D:/Unreal/UE_4.23/Engine/Content: 'D:/Unreal/UE_4.23/Engine/Content' is outside repository
+[2020.01.31-16.08.26:341][743]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-16.08.32:847][743]LogSlate: Window 'Submit Files' being destroyed
+[2020.01.31-16.08.32:859][743]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-16.08.32:987][743]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-16.08.33:467][743]LogSourceControl: commit successful: [master f46cea9] lights boi
+[2020.01.31-16.08.33:562][743]SourceControl: [master f46cea9] lights boi
+[2020.01.31-16.08.33:562][743]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.01.31-16.08.33:573][743]SourceControl: Commited [master f46cea9] lights boi.
