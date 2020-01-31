@@ -609,3 +609,45 @@ Script Stack (0 frames):
 [2020.01.31-15.20.27:961][244]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={DB92DD07-4AC2-0517-9CDB-74909F16D2F5}
 [2020.01.31-16.02.45:005][842]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.01.31-16.03.50:021][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.04.03:369][257]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-16.05.11:330][564]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-16.05.13:593][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.05.15:156][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.05.15:314][ 13]LogActorFactory: Actor Factory created Cylinder
+[2020.01.31-16.05.15:513][ 36]LogActorFactory: Actor Factory created Cylinder
+[2020.01.31-16.05.16:351][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.05.16:428][139]LogActorFactory: Actor Factory created Cylinder
+[2020.01.31-16.05.16:536][149]LogActorFactory: Actor Factory created Cylinder
+[2020.01.31-16.05.17:176][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.05.17:252][230]LogActorFactory: Actor Factory created Cylinder
+[2020.01.31-16.05.17:287][233]LogActorFactory: Actor Factory created Cylinder
+[2020.01.31-16.05.17:880][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.05.18:023][315]LogActorFactory: Actor Factory created Cube
+[2020.01.31-16.05.18:074][320]LogActorFactory: Actor Factory created Cube
+[2020.01.31-16.05.19:013][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.05.19:090][437]LogActorFactory: Actor Factory created Cylinder
+[2020.01.31-16.05.19:124][440]LogActorFactory: Actor Factory created Cylinder
+[2020.01.31-16.05.20:308][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.31-16.05.22:031][774]SourceControl: fatal: D:/UE_4.23/Engine/Content: 'D:/UE_4.23/Engine/Content' is outside repository
+[2020.01.31-16.05.22:107][774]EditorErrors: Warning: No assets to check in!
+[2020.01.31-16.05.27:101][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.31-16.05.27:235][359]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2020.01.31-16.05.27:246][359]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.31-16.05.31:819][359]LogSlate: Window 'Save Level As' being destroyed
+[2020.01.31-16.05.31:826][359]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2020.01.31-16.05.31:991][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.01.31-16.05.31:993][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../Imagin3DTest/TESTIMAGIN3D/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.31-16.05.32:034][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.01.31-16.05.32:163][359]LogSavePackage: Moving '../../../../Imagin3DTest/TESTIMAGIN3D/Saved/level10BADEF734FC4420161B32799352A2DE3.tmp' to '../../../../Imagin3DTest/TESTIMAGIN3D/Content/level1.umap'
+[2020.01.31-16.05.32:457][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1_BuiltData" FILE="../../../../Imagin3DTest/TESTIMAGIN3D/Content/level1_BuiltData.uasset" SILENT=true
+[2020.01.31-16.05.32:473][359]LogSavePackage: Moving '../../../../Imagin3DTest/TESTIMAGIN3D/Saved/level1_BuiltData966588A14711314F5667C0B00DD861A7.tmp' to '../../../../Imagin3DTest/TESTIMAGIN3D/Content/level1_BuiltData.uasset'
+[2020.01.31-16.05.32:751][359]LogFileHelpers: Saving map 'level1' took 0.923
+[2020.01.31-16.05.32:868][368]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2020.01.31-16.05.36:281][761]SourceControl: fatal: D:/UE_4.23/Engine/Content: 'D:/UE_4.23/Engine/Content' is outside repository
+[2020.01.31-16.05.43:232][761]LogSlate: Window 'Submit Files' being destroyed
+[2020.01.31-16.05.43:496][761]LogSourceControl: commit successful: [master 8309d7f] level and bsp
+[2020.01.31-16.05.43:532][761]SourceControl: [master 8309d7f] level and bsp
+[2020.01.31-16.05.43:532][761]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.01.31-16.05.43:532][761]SourceControl:  create mode 100644 TESTIMAGIN3D/Content/level1.umap
+[2020.01.31-16.05.43:532][761]SourceControl:  create mode 100644 TESTIMAGIN3D/Content/level1_BuiltData.uasset
+[2020.01.31-16.05.43:539][761]SourceControl: Commited [master 8309d7f] level and bsp.
