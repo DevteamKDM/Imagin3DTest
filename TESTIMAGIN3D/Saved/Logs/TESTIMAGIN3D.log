@@ -639,3 +639,4 @@ Script Stack (0 frames):
 [2020.01.31-16.08.33:562][743]SourceControl: [master f46cea9] lights boi
 [2020.01.31-16.08.33:562][743]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.01.31-16.08.33:573][743]SourceControl: Commited [master f46cea9] lights boi.
+[2020.01.31-16.09.09:364][951]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={EB0CDE13-470F-63E3-C831-4E8AA2AE4B84}
