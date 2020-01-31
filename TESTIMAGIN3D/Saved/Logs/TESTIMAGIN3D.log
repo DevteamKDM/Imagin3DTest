@@ -597,3 +597,7 @@ Script Stack (0 frames):
 [2020.01.31-15.11.04:487][297]SourceControl:  1 file changed, 6 insertions(+)
 [2020.01.31-15.11.04:487][297]SourceControl:  create mode 100644 TESTIMAGIN3D/TESTIMAGIN3D.uproject
 [2020.01.31-15.11.04:495][297]SourceControl: Commited [master (root-commit) 734c9bf] LEVEL.
+[2020.01.31-15.11.27:187][624]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={ED68F86C-48F1-6176-639C-F0BA1F3909B1}
+[2020.01.31-15.11.27:187][624]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={7F243188-40EB-CB1F-F799-44B21B854928}
+[2020.01.31-15.11.27:187][624]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5C6DBDA1-44A0-8776-8825-12B81FFD3874}
+[2020.01.31-15.11.27:187][624]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={EF860985-4561-FD39-35E8-0E894D985A26}
