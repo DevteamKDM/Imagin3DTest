@@ -608,3 +608,4 @@ Script Stack (0 frames):
 [2020.01.31-15.20.27:064][241]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
 [2020.01.31-15.20.27:961][244]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={DB92DD07-4AC2-0517-9CDB-74909F16D2F5}
 [2020.01.31-16.02.45:005][842]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.31-16.03.50:021][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
