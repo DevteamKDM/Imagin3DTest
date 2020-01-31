@@ -601,3 +601,9 @@ Script Stack (0 frames):
 [2020.01.31-15.11.27:187][624]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={7F243188-40EB-CB1F-F799-44B21B854928}
 [2020.01.31-15.11.27:187][624]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5C6DBDA1-44A0-8776-8825-12B81FFD3874}
 [2020.01.31-15.11.27:187][624]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={EF860985-4561-FD39-35E8-0E894D985A26}
+[2020.01.31-15.20.27:033][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.01.31-15.20.27:034][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../Imagin3DTest/TESTIMAGIN3D/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.01.31-15.20.27:058][241]LogSavePackage: Moving '../../../../Imagin3DTest/TESTIMAGIN3D/Saved/Untitled_1_Auto108F59D364C20EB01E89067B321AA3AF5.tmp' to '../../../../Imagin3DTest/TESTIMAGIN3D/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.01.31-15.20.27:064][241]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.072
+[2020.01.31-15.20.27:064][241]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2020.01.31-15.20.27:961][244]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={DB92DD07-4AC2-0517-9CDB-74909F16D2F5}
